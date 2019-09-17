@@ -1,0 +1,35 @@
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.titleBar{
+    background:grey;
+    color: rgb(248, 179, 51);
+    text-align: center;
+    padding:20px;
+    font-size:20px;
+    width: 100%;
+    
+ 
+}
+.logoImage{
+    height:100px;
+    width:150px;
+}
+.status{
+    padding-top:35px;
+
+
+}
+.scoreStats{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:35px;
+}
+.gameContent{
+    text-align: center;
+}
+.actualImage{
+    height: 175px;
+    width: 225px;
+    margin:10px;
+}
