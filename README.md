@@ -1,6 +1,6 @@
 # Ninja Memory Game
 
-This is a simple memory game using characters from the popular anime Naruto. The goal is simple, you must click on the faces of the characters once and only once untill you click on them all.  If you accidently click on the same character more then once your score will be reset to zero and you will have to start over!  Good luck!
+This is a memory game using characters from the popular anime Naruto. The goal is simple, you must click on the faces of the characters once and only once untill you click on them all.  If you accidently click on the same character more then once your score will be reset to zero and you will have to start over!  Good luck!
 
 ## Getting Started
 
